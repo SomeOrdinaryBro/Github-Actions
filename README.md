@@ -1,6 +1,6 @@
 # Boon with the Boys
-)
-<img src="/images/boon_artwork.jpg" width="250">
+
+![artwork](images/boon_artwork.jpg)
 
 [Boon with the Boys](http://example.com) is a weekly podcast series hosted by [Sajid](http://example.com). Join Sajid and his eclectic group of friends as they dive deep into fascinating discussions on technology, culture, and the trends shaping our world.
 
