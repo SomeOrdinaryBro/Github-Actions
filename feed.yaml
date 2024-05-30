@@ -1,39 +1,39 @@
-title: The Future in Tech
-subtitle: Powered by LinkedIn Learning
-author: Ray Villalobos
-description: Conversations with leaders building next generation techology tools.
-image: /images/artwork.jpg
+title: Boon with the Boys
+subtitle: Unleashing Ideas, One Conversation at a Time
+author: Sajid
+description: Join Sajid and his eclectic group of friends as they dive deep into fascinating discussions on technology, culture, and the trends shaping our world.
+image: /images/boon_artwork.jpg
 language: en-us
-category: Technology
+category: Society & Culture
 format: audio/mpeg
 item:
-  - title: EP01-What's Happening in 2023
-    description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
-    published: Thu, 12 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT01.mp3
-    duration: 00:00:36
-    length: 576,324
-  - title: EP02-What is Generative AI?
-    description:  Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2023.
-    published: Thu, 19 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT02.mp3
-    duration: 00:00:22
-    length: 351,963
-  - title: EP03-How Generative AI Will Change DevOps
-    description:  Jerome Hardaway explores how generative AI can revolutionize the software development process by increasing efficiency, automating repetitive tasks, and creating more sophisticated and innovative solutions.
-    published: Thu, 26 Jan 2023 18:00:00 GMT
-    file: /audio/TFIT03.mp3
-    duration: 00:00:19
-    length: 305,488
-  - title: EP04-Building Responsible AI Systems
-    description:   Ayodele Odubela, a Data Scientist, Machine Learning professional and AI Entrepreneur, discusses the ethical issues surrounding the rapid adoption of AI systems, including transparency, minimizing bias, ensuring fairness, and potential ramifications around privacy, security, and governance.
-    published: Thu, 2 Feb 2023 18:00:00 GMT
-    file: /audio/TFIT04.mp3
-    duration: 00:00:29
-    length: 470,668
-  - title: EP05-Crafting an AI Strategy For Your Business
-    description: Andreas Welsch joins this discussion to share insights on crafting an AI strategy for businesses that considers evolving technology, ethics, and legal implications, drawing from his extensive experience in managing stakeholder relationships and leading AI projects across Fortune 500 companies.
-    published: Thu, 9 Feb 2023 18:00:00 GMT
-    file: /audio/TFIT05.mp3
-    duration: 00:00:22
-    length: 352,587
+  - title: EP01 - The Tech Trends Shaping Our Future
+    description: Host Sajid and tech enthusiasts Mike and Laura explore the groundbreaking technologies that are set to redefine our lives in the coming years.
+    published: Mon, 5 Mar 2023 18:00:00 GMT
+    file: /audio/BTB01.mp3
+    duration: 00:42
+    length: 620000
+  - title: EP02 - The Rise of Generative Art
+    description: Artist and AI researcher Emma discusses the burgeoning field of generative art, its implications for creativity, and how it's changing the art world.
+    published: Mon, 12 Mar 2023 18:00:00 GMT
+    file: /audio/BTB02.mp3
+    duration: 00:35
+    length: 520000
+  - title: EP03 - Tech and Mental Health
+    description: Mental health advocate John shares insights on how technology can both help and hinder mental well-being, and what we can do to maintain a healthy balance.
+    published: Mon, 19 Mar 2023 18:00:00 GMT
+    file: /audio/BTB03.mp3
+    duration: 00:30
+    length: 450000
+  - title: EP04 - Ethical AI - Challenges and Opportunities
+    description: AI ethicist Dr. Patel discusses the pressing ethical issues in AI development, from bias and fairness to privacy and accountability.
+    published: Mon, 26 Mar 2023 18:00:00 GMT
+    file: /audio/BTB04.mp3
+    duration: 00:40
+    length: 580000
+  - title: EP05 - Building a Sustainable Future with Technology
+    description: Environmental scientist Rachel talks about the role of technology in promoting sustainability and how innovative solutions can address climate change.
+    published: Mon, 2 Apr 2023 18:00:00 GMT
+    file: /audio/BTB05.mp3
+    duration: 00:37
+    length: 540000
