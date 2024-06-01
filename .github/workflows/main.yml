@@ -23,5 +23,3 @@ jobs:
           git add .
           git commit -m "Modified Feed"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
