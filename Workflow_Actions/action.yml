@@ -1,0 +1,19 @@
+name: "Boon with the boys"
+author: "Sajid"
+description: "Generator"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  color: "blue"
+  icon: "git-branch"
+inputs:
+  committer_email:
+    description: "The Committer's email address"
+    required: true
+    default: ${{ github.actor }}@localhost
+  committer_name:
+    description: "The committer's name"
+    required: true
+    default: ${{ github.actor }}
