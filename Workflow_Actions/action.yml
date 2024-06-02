@@ -1,6 +1,6 @@
 name: "Boon with the boys"
 author: "Sajid"
-description: "Generator"
+description: 'Generate feeds for the project'
 
 runs:
   using: "docker"
