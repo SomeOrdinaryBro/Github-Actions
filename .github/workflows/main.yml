@@ -12,3 +12,6 @@ jobs:
 
       - name: Run Feed Generator
         uses: ./Workflow_Actions
+        with:
+          committer_email: ${{ github.actor }}@localhost
+          committer_name: ${{ github.actor }}
